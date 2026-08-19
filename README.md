@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sai Kumar Kankanti
 
-### 💻 Aspiring Software Engineer | Full Stack Developer | AI & Cyber Security Enthusiast
+### 💻 Aspiring Software Engineer | Full Stack Developer | AI & Cyber Security Student
 
 I'm a **B.Tech Computer Science student specializing in Cyber Security** at CMR College of Engineering and Technology, Hyderabad, graduating in **2027** with a **CGPA of 8.1**.
 
