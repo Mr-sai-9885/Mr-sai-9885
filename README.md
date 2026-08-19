@@ -15,7 +15,6 @@ I don't just learn technologies — I try to **build projects with them and unde
 * 🎓 B.Tech CSE (Cyber Security) | Class of 2027
 * 💻 Interested in **Software Engineering & Full Stack Development**
 * 🤖 Exploring **AI/ML and Generative AI**
-* 🔐 Interested in **Cyber Security & Network Security**
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🏆 Selected for the **State-Level OpenAI × NxtWave Buildathon 2025**
 * 📊 Currently improving my problem-solving skills through **LeetCode & Striver A2Z DSA Sheet**
